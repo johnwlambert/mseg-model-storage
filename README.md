@@ -1,0 +1,2 @@
+# mseg-model-storage
+GitLFS
